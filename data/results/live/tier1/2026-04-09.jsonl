@@ -1,0 +1,5 @@
+{"ts": "2026-04-09T13:31:18.347923Z", "event": "session_start", "today": "2026-04-09", "dry_run": false, "contracts": 1}
+{"ts": "2026-04-09T13:31:18.409248Z", "event": "prior_low_loaded", "prior_date": "2026-04-08", "prior_low": 602.12}
+{"ts": "2026-04-09T13:31:20.090846Z", "event": "account", "cash": 100000.0, "portfolio_value": 100000.0, "options_level": 3}
+{"ts": "2026-04-09T13:31:20.161544Z", "event": "feed_started", "until": "2026-04-09T11:30:00-04:00"}
+{"ts": "2026-04-09T16:02:43.041176Z", "event": "session_end", "realized_pnl": 0.0, "trades": 0}

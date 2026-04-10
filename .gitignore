@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/raw/
+data/**/*.parquet
+data/results/live/
+.ipynb_checkpoints/
